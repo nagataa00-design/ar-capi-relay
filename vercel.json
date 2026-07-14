@@ -1,0 +1,7 @@
+ {
+    "functions": {
+      "api/meta-capi.js": {
+        "maxDuration": 10                                                                     
+      }
+    }
+  }
